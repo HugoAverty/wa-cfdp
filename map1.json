@@ -46,6 +46,16 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"default",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"label",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"{{{ contactCal }}}"
@@ -222,6 +232,17 @@
                  "id":17,
                  "name":"contactCal",
                  "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"URL Calendar Contact de prise de RDV :"
+                        }],
                  "rotation":0,
                  "type":"variable",
                  "visible":true,
@@ -234,6 +255,17 @@
                  "id":18,
                  "name":"contactDoc",
                  "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"URL Doc Contact de prise de RDV :"
+                        }],
                  "rotation":0,
                  "type":"variable",
                  "visible":true,
@@ -246,6 +278,17 @@
                  "id":19,
                  "name":"biblioDoc",
                  "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"URL Doc Service biblioth\u00e8que :"
+                        }],
                  "rotation":0,
                  "type":"variable",
                  "visible":true,
@@ -258,6 +301,17 @@
                  "id":20,
                  "name":"biblioVideo1",
                  "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"URL Vid\u00e9o 1 Service biblioth\u00e8que :"
+                        }],
                  "rotation":0,
                  "type":"variable",
                  "visible":true,
@@ -270,6 +324,17 @@
                  "id":21,
                  "name":"biblioVideo2",
                  "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"URL Vid\u00e9o 2 Service biblioth\u00e8que :"
+                        }],
                  "rotation":0,
                  "type":"variable",
                  "visible":true,
@@ -282,6 +347,17 @@
                  "id":22,
                  "name":"maisonCFDP",
                  "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"URL Maison CFDP :"
+                        }],
                  "rotation":0,
                  "type":"variable",
                  "visible":true,
