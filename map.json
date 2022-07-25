@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map1.json"
+                 "value":"\/@\/cfdp-assurances\/presentation-metavers-cfdp\/office2"
                 }],
          "type":"tilelayer",
          "visible":true,

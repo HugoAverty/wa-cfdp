@@ -166,7 +166,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map2.json"
+                 "value":"\/@\/cfdp-assurances\/presentation-metavers-cfdp\/office3"
                 }],
          "type":"tilelayer",
          "visible":true,
