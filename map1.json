@@ -388,6 +388,17 @@
                  "id":23,
                  "name":"idee",
                  "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"URL Boite \u00e0 id\u00e9es :"
+                        }],
                  "rotation":0,
                  "type":"variable",
                  "visible":true,
